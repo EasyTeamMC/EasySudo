@@ -1,0 +1,7 @@
+name: EasySudo
+api: 3.0.0
+version: 1.0
+main: easyteammc\easysudo\EasySudo
+author: EasyTeamMC
+authors:
+  - AgusPedhot
